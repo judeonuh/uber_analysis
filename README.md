@@ -8,4 +8,4 @@ This project also includes a dashboard designed to support data-driven decision-
 
 Details of the analysis is underway. Meanwhile, interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMDBkNjViMDktMzc3MS00NDA0LWE1YjMtNjIxOThiNDhhYzliIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)  
 
-
+![dashboard](uber_dashboard.png)
